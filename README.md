@@ -9,7 +9,7 @@ While doing this project I faced challenges at several places,
 
 ### Technologies used.
 
-tailwind css and react js.
+Tailwind css and React js.
 
 ### 3 key features of your project.
 
@@ -19,4 +19,4 @@ tailwind css and react js.
 
 ### Live link
 
-https://treact-cricket.netlify.app/
+https://tailwind-react-cricket.netlify.app/
